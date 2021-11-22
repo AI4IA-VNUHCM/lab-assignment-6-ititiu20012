@@ -12,7 +12,7 @@
 
 void Ex1(int n){
 	//Your codes here
-	
+	hello
 }
 
 int main(int argc, char *argv[]) {
